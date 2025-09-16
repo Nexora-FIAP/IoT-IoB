@@ -24,3 +24,14 @@ env/
 # Arquivos temporários de execução
 *.tmp
 *.temp
+
+# Arquivos de imagem e vídeo (testes locais)
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.gif
+*.mp4
+*.avi
+*.mov
+*.mkv
