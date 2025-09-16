@@ -1,0 +1,26 @@
+# Ignorar pasta de dados (contém imagem de cadastro do usuário)
+data/
+
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ambiente virtual
+.venv/
+venv/
+env/
+
+# Configurações do sistema/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Arquivos temporários de execução
+*.tmp
+*.temp
