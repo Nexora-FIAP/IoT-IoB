@@ -1,11 +1,16 @@
 # Sistema de Detecção e Autenticação Facial com OpenCV  
-**Sprint 3 – Nexora – IoT & IoB – Turma 3ESPY**
+**Sprint 3 – Nexora - App de Assistente Financeiro – IoT & IoB **
 
 ## 👥 Autores
 - **Gabriel Machado** – RM 99880  
 - **Lourenzo Ramos** – RM 99951  
 - **Vitor Hugo Rodrigues** – RM 97758  
 - **Leticia Resina** – RM 98069  
+
+---
+
+## Video do programa funcionando
+`https://www.youtube.com/watch?v=s4w629vYKyE`
 
 ---
 
